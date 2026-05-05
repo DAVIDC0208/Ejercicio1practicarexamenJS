@@ -1,0 +1,13 @@
+.caja_div {
+    border: solid 2px black;
+    height: 70px;
+    width: 300px;
+    padding: 10px;
+    
+}
+.boton {
+    background-color: aliceblue;
+    border-radius: 7px;
+    display: flex;
+    cursor: pointer;
+}
